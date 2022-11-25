@@ -8,4 +8,8 @@
     <ProjectReference Include="..\ToDo.API.Core\ToDo.API.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\" />
+  </ItemGroup>
+
 </Project>
