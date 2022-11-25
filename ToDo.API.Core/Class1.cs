@@ -2,7 +2,7 @@
 
 namespace ToDo.API.Core
 {
-    public class Class1
+    public interface IOperationResult
     {
     }
 }
